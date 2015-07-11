@@ -1,0 +1,19 @@
+{
+  "name": "riot-example",
+  "version": "0.0.1",
+  "authors": [
+    "Artem Shoobovych <shybovycha@gmail.com>"
+  ],
+  "dependencies": {
+    "riot": "2.2.1",
+    "bootstrap": "~3.3.5"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
